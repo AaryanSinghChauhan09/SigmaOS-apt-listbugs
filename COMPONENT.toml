@@ -3,7 +3,7 @@ name = "SigmaOS-apt-listbugs"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "apt-listbugs component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
